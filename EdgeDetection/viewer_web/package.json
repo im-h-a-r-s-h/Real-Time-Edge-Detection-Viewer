@@ -1,0 +1,9 @@
+<!-- Modified by Harsh - Simplified copy -->
+{
+  "name": "EdgeVision-web",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
