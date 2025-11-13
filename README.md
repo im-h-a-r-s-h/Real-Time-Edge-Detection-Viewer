@@ -20,7 +20,7 @@ A lightweight hybrid project combining **Android (NDK + OpenCV + OpenGL ES)** an
 
 ---
 
-| Android App | Web Preview |
+| Web Preview | Android App  |
 |--------------|--------------|
 | ![Web Preview](screenshots/Screenshot%202025-11-14%20004739.png) | ![Android App](screenshots/Screenshot%202025-11-14%20004812.png) |
 
